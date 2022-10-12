@@ -1,0 +1,16 @@
+The epigenome consists of chemical tags that signal DNA methylation or acetylation, which control gene transcription and DNA compaction in the cell nucleus.
+Certain exterior factors (such as diet, exercise, drugs, and stress) are able to signal epigenetic modifications through adding and removing methyl or acetyl groups from the DNA, causing changes in gene expression.
+Early Life Stress (ELS) has been linked to epigenetic modifications through DNA methylation, which includes being more likely to experience various behavioral and psychological illnesses.
+This topic was of great interest to our group initially because we were all experiencing stress in our lives, but when we researched further we were surprised to discover that stress experienced in the womb and during early childhood can have an enormous effect on the adult phenotype.
+It is imperative to the health of the child that expectant mothers and new parents have the least amount of distress in their lives.
+In animal and human test subjects, ELS has been found to have long-lasting effects on the adult phenotype.
+1 Mice who experience certain postnatal stressors (such as separation from the mother or maternal stress) display various behavioral issues including increased anxiety or depression in the phenotype as well as addiction.
+DNA methylation was found to be changed after the subject experienced postnatal stress in genes including Nr3c1, the hypothalamic peptides Avp and Crh, and their receptors, Crhr2 (Provençal, 2015).
+Epigenetic analysis has also been performed on human subjects using post-mortem samples.
+DNA methylation was examined in the hippocampus of suicide completers through the expression of the Nrc31 promoter.
+The testing found that differences in DNA methylation in the Nr3c1 gene and its expression were detected between suicide victims who had experienced child abuse versus those who had not (Provençal, 2015).
+Prenatal stress caused by the environment can also result in eating disorders.
+2 Mothers who undergo stress during the gestational period have children who display increases in methylation in the offspring’s glucocorticoid receptor gene: “In keeping with NR3C1's role in moderating sensitivity of the hypothalamic-pituitary-adrenal axis, affected offspring show altered cortisol responses and increased stress reactivity” (Steiger, Thaler, 2016).
+A study revealed that children of mothers who experienced intense, third-trimester distress during very-severe weather conditions (the 1998 Ice Storm in Quebec) showed more ED symptoms at age 132.
+In a separate study, the children who experienced the ice storm showed altered DNA methylation patterns when compared to unexposed children.
+Epigenetic research has exposed the danger of prenatal and postnatal stress to the offspring, and expectant parents must take this into consideration and eliminate as much stress as possible during this important time in their child’s development.
